@@ -44,4 +44,4 @@
 * [3. Deep Q Learning]()
 * [4. Double Deep Q Learning]()
 * [5. DDPG]()
-* [6. Alpha-GO]()
+* [6. Alpha-Go-Zero]()
