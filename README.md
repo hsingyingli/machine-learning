@@ -26,11 +26,10 @@
 ## Deep learning
 ---
 ### Convolutional Neural Network
-* [1. CNN]()
-* [2. FCN]()
-* [3. ResNet]()
-* [4. TCN]()
-* [5. FCN-DenseNet]()
+* [1. FCN]()
+* [2. ResNet]()
+* [3. TCN]()
+* [4. FCN-DenseNet]()
 ### Recurrent Neural Network
 * [1. RNN]()
 * [2. LSTM]()
