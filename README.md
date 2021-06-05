@@ -5,7 +5,7 @@
 ### Supervise Learning
 * [1. Support Vector Machine]()
 * [2. Logistic Regression]()
-* [3. Decision Tree]()
+* [3. Decision Tree](https://github.com/hsingyingli/machine-learning/tree/main/Classical-Machine-Learning-Algorithm/supervise-learning/decision-tree)
 * [4. Native Bayes Classifier]()
 * [5. Maximum Entropy Model]()
 * [6. Hidden Markov Model]()
@@ -29,7 +29,7 @@
 * [1. FCN]()
 * [2. ResNet]()
 * [3. TCN]()
-* [4. FCN-DenseNet]()
+* [4. FCN-DenseNet](https://github.com/hsingyingli/machine-learning/tree/main/Deep-Learning/CNN-based/FC-DenseNet)
 ### Recurrent Neural Network
 * [1. RNN]()
 * [2. LSTM]()
@@ -39,8 +39,8 @@
 ## Reinforcement Learning 
 ---
 * [1. Q-Learning]()
-* [2. CrossEntropy]()
+* [2. CrossEntropy](https://github.com/hsingyingli/machine-learning/tree/main/Reinforcement-Learning/crossentropy)
 * [3. Deep Q Learning]()
 * [4. Double Deep Q Learning]()
-* [5. DDPG]()
+* [5. DDPG](https://github.com/hsingyingli/machine-learning/tree/main/Reinforcement-Learning/ddpg)
 * [6. Alpha-Go-Zero]()
